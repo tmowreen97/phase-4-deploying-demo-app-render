@@ -15,6 +15,7 @@ function RecipeList() {
 
   return (
     <Wrapper>
+      <h1>Welcome!</h1>
       {recipes.length > 0 ? (
         recipes.map((recipe) => (
           <Recipe key={recipe.id}>
