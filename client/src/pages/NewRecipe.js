@@ -48,7 +48,7 @@ function NewRecipe({ user }) {
   return (
     <Wrapper>
       <WrapperChild>
-        <h2>Create Recipe</h2>
+        <h2>Create Recipe Boyyyy</h2>
         <form onSubmit={handleSubmit}>
           <FormField>
             <Label htmlFor="title">Title</Label>
